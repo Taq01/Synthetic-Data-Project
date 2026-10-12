@@ -1,5 +1,5 @@
 # Synthetic-Data-Project
-Synthetic Data Generation &amp; Automated Annotation Demo
+Synthetic Data Generation &amp; Automated Annotation Demo </br>
 The project aims to develop an automated synthetic data generation pipeline using Unreal Engine
 to accelerate development.
 
